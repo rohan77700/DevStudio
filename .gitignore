@@ -1,8 +1,20 @@
+# IDE files
+.vscode
+
 # Virtual environment directories
 .venv/
 
 # C compile
 compiled/
+
+# Java compiled class files
+*.class
+
+# Bytecode directories
+bin/
+
+# Dependency directories
+lib/
 
 # Django project
 __pycache__
